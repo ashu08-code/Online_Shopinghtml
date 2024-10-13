@@ -1,0 +1,958 @@
+@media screen and (min-width: 1920px) {
+  /* .login-page-main.new-login-page-home{
+     height: 100vh;
+    } */
+}
+
+@media screen and (max-width: 1280px) {
+  .banner-section .banner-section-right .wishlist-main-secton {
+    display: block;
+  }
+
+  .banner-section .wishlist-main-secton .wishlist-btn button {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .banner-section .wishlist-main-secton .buy-now-btn button {
+    width: 100%;
+  }
+
+  .deal_ofday .leftcorner_design {
+    display: none;
+  }
+
+  .deal_ofday .right_cornerdesign {
+    display: none;
+  }
+
+  /* new css 12-1 */
+  .divone_img img {
+    width: 202px;
+    height: 93px;
+  }
+
+  .discount_arotise1 .divone_img {
+    margin-top: -14px;
+  }
+
+  .discount_arotise1 .divcontent_arot1 h2 {
+    font-size: 18px;
+  }
+
+  .discount_arotise1 .divcontent_arot1 h1 {
+    font-size: 20px;
+  }
+
+  .discount_arotisetwo2 .div_one h1 {
+    font-size: 20px;
+  }
+
+  .discount_arotisethree3 .div_left h2 {
+    font-size: 18px;
+  }
+
+  .discount_arotisethree3 .div_left h1 {
+    font-size: 20px;
+  }
+
+  .discount_arotise1 .divone_img {
+    margin-top: -2px;
+  }
+
+  /* about-us 2-2-24 */
+  .transformative-section .transformative_slider button.owl-prev {
+    left: -5%;
+    top: 19%;
+  }
+
+  .transformative-section .transformative_slider button.owl-next {
+    right: -5%;
+    top: 19%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .app_footdownloadimg {
+    gap: 12px;
+  }
+
+  .ordersummary_table .table_hrline {
+    margin: 34px 0;
+  }
+
+  .service_smallmaindiv {
+    max-width: 25%;
+  }
+
+  .dry_fruitssection .swiper-button-prev {
+    margin-left: 15px;
+  }
+
+  /* index page 13-1*/
+  .hero_leftbig h2 {
+    font-size: 27px;
+  }
+
+  .banner_aerotisetwo .one {
+    height: 64px;
+  }
+
+  .banner_aerotisetwo {
+    padding: 14% 5%;
+  }
+
+  .banner_aerotisetwo h2 {
+    font-size: 23px;
+  }
+
+  /* contact-us page */
+  .contact-us-section .contact-us-text p {
+    max-width: 45%;
+  }
+
+  /* about us page */
+  .welcome-to-about-us .contact-us-btn button {
+    margin-top: 0px;
+  }
+
+  /* my profile page */
+  .my-profile-information .service_profilediv {
+    max-width: 31%;
+  }
+
+  .my-profile-information .save-btn-profile button {
+    font-size: 14px;
+    padding: 11px 7px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .footer_section .footertopdiv_sendemail h2 {
+    font-size: 18px;
+    width: 100%;
+  }
+
+  .footer_section .footer_respmartop {
+    margin-top: 16px;
+  }
+
+  .header_topcontent {
+    justify-content: start;
+    margin-bottom: 6px;
+  }
+
+  .header_ontop .cross_headbtn {
+    margin-top: -10px;
+  }
+
+  /* --- deal of the day--- */
+  .deal_ofday {
+    height: 340px;
+    justify-content: center;
+  }
+
+  .grocery_product .grocery_imgleft {
+    display: none;
+  }
+
+  .deal_ofday .do_flex.display_hideresp {
+    display: none;
+  }
+
+  .deal_ofday .do_flex.display_hiderightresp {
+    display: none;
+  }
+
+  .deal_ofday .dealof_daycontent {
+    position: initial;
+    display: block;
+    text-align: center;
+  }
+
+
+  /* --- */
+  .banner-section-right {
+    margin-top: 29px;
+  }
+
+  .our-gallery-section {
+    margin-top: 15px;
+  }
+
+  .most_popularscroller .swiper-button-prev {
+    margin-left: 15px;
+  }
+
+  .service_smallmaindiv {
+    max-width: 35%;
+  }
+
+  /* css new 12-1 s */
+  .divimg_righttwo img {
+    width: 104px;
+    height: 184px;
+  }
+
+  .topsell_content h6 {
+    font-size: 14px;
+  }
+
+  .discount_arotisethree3 .div_left h1 {
+    margin-bottom: 6px;
+  }
+
+  .discount_arotisethree3 .div_left h2 {
+    font-size: 14px;
+  }
+
+  .shop_topselling1 {
+    display: block;
+  }
+
+  .shop_topselling1 {
+    margin-top: -16px;
+  }
+
+  .left_latestblog {
+    margin-bottom: 20px;
+  }
+
+
+  /* index page 13-1 */
+  .hero_section .hero_leftbig h2 {
+    font-size: 23px;
+  }
+
+  .hero_section .hero_rightsmall {
+    margin-top: 10px;
+  }
+
+  .hero_section .banner_aerotisetwo .one {
+    display: none;
+  }
+
+  .hero_section .banner_aerotiseone {
+    padding: 32% 5% 10% 5%;
+  }
+
+  .hero_section .banner_content {
+    max-width: 63%;
+  }
+
+  .hero_section .banner_aerotiseone {
+    padding: 19% 24% 1% 14%;
+  }
+
+  .hero_section .hero_rightsmall {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .hero_section .banner_aerotisetwo {
+    padding: 14% 8%;
+    margin-top: 0px;
+    margin-left: 15px;
+  }
+
+  /* contact us page */
+  .contact-inform-section .contact-flex_cont h6 {
+    font-size: 14px;
+  }
+
+  .contact-inform-section .checkbox_flex input {
+    width: 11% !important;
+  }
+
+  .call-request-section .call-request-text h3 {
+    max-width: 80%;
+  }
+
+  .call-request-section .call-request-text p {
+    max-width: 100%;
+  }
+
+  .contact-us-section .contact-us-text p {
+    max-width: 100%;
+  }
+
+  /* pyment page */
+  .payment-method-section .checkbox_flex label {
+    font-size: 12px;
+  }
+
+
+  /* about us page */
+  .our-vision-section .our-mission-right {
+    margin-top: 20px;
+  }
+
+  .our-mission-section {
+    margin-top: 0px;
+  }
+
+  .welcome-text-right {
+    margin-top: 38px;
+  }
+
+  .welcome-to-about-us .welcome-text h5 {
+    margin-top: 10px;
+  }
+
+  .transformative-section {
+    margin-top: 38px;
+    padding: 33px;
+  }
+
+  .our-vision-section {
+    margin-top: 29px;
+  }
+
+  .about-us-section .about-us-section-img p {
+    max-width: 71%;
+  }
+
+  .transformative-section .transformative-heading p {
+    max-width: 100%;
+  }
+
+  .choose-us-section .choose-us-text h5 {
+    font-size: 14px;
+  }
+
+  /* myprofile page */
+  .my-profile-information .service_profilediv {
+    max-width: 35%;
+  }
+
+  .my-profile-information .prosal-info-user {
+    padding: 20px;
+  }
+
+  /* login modal */
+  .loginshop_overlayimg {
+    height: 106vh;
+  }
+
+  .login_pagemaindiv .left_loginsection {
+    height: 106vh;
+  }
+
+  .shoplogin_rightimage {
+    height: 106vh;
+  }
+
+  /* about us 2-2-24 */
+  .welcome-to-about-us .welcome-img {
+    margin: 0 auto;
+    max-width: 72%;
+  }
+
+  .our-vision-img {
+    margin: 0 auto;
+    max-width: 77%;
+  }
+
+  .transformative-section .transformative_slider button.owl-prev {
+    top: 22%;
+  }
+
+  .transformative-section .transformative_slider button.owl-next {
+    top: 22%;
+  }
+
+  .new-modal-search .modal-body {
+    height: 145px;
+    padding-top: 39px;
+  }
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+  .cart_productveg1 .cart_vegdescription {
+    flex-direction: column;
+  }
+
+  .cart_productveg1 .cart_vegimg {
+    width: 99px;
+  }
+
+  .cart_productveg1 .cart_productname p {
+    width: 135%;
+    margin-bottom: 6px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  /* ----- */
+  .banner-section-right .increment-decrement-btn {
+    width: 100%;
+  }
+
+  .banner-section-third button.increment-btn {
+    padding-left: 58px;
+  }
+
+  .increment-decrement-btn button.decrement-btn {
+    padding-right: 59px;
+  }
+
+  .rating-section-main {
+    margin-top: 20px;
+  }
+
+  .rating-section-main .rating-section-heading h2 {
+    font-size: 50px;
+  }
+
+  .banner-section .banner-section-right .wishlist-main-secton {
+    margin-top: 15px;
+  }
+
+  .health-benefits-section {
+    margin-top: 22px;
+  }
+
+  /* new css 12-1 s */
+  .shop_topselling1 {
+    padding: 12px 0px;
+  }
+
+  .discount-main-box {
+    width: 700px;
+    overflow-x: scroll;
+  }
+
+  /* contact us page */
+  .contact-us-section .contact-us-text h1 {
+    font-size: 30px;
+  }
+
+  /* about us page */
+  .about-us-section .about-us-section-img p {
+    max-width: 100%;
+  }
+
+  .number-section-main .number-heading h3 {
+    font-size: 32px;
+  }
+
+  .choose-us-section .choose-us-text h5 {
+    font-size: 14px;
+  }
+
+  .transformative-heading h2 {
+    font-size: 28px;
+  }
+
+  .transformative-main-box p {
+    font-size: 14px;
+  }
+
+  .transformative-heading p {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer_section .footertopdiv_sendemail button {
+    margin-top: 10px;
+  }
+
+  .leftpart_mainheader {
+    display: none;
+  }
+
+  .tastfood_bannertest {
+    width: 100%;
+  }
+
+  .billing_addressleft button {
+    margin-top: 50px;
+    margin-bottom: 15px;
+  }
+
+  .ordersummary_right .summaryheading {
+    margin-top: 20px;
+  }
+
+  .recent_newssection .row {
+    display: flex;
+    justify-content: center;
+  }
+
+  .service_smallmaindiv {
+    max-width: 50%;
+  }
+
+  .grocery_product .rightimg_grocery img {
+    display: none;
+  }
+
+  .service_smallmaindiv {
+    max-width: 84%;
+  }
+
+  .arrival_slideroverflow {
+    margin-top: 18px;
+  }
+
+  .row_flex {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .dry_fruitssection .tab3_heading h2 {
+    margin-top: 20px;
+  }
+
+  .right_specialproduct .special_prodheading h2 {
+    margin-top: 20px;
+  }
+
+  .blogdetail_topimage {
+    height: 400px;
+  }
+
+
+  /* new css 12-1-23 */
+  .sropdown_shortby {
+    display: block;
+    margin-left: 6px;
+  }
+
+  .top-selling-div {
+    display: none;
+  }
+
+
+  /* contact us page */
+  .conatct-help-section {
+    margin-top: 20px;
+  }
+
+  .conatct-help-section .contact-help-heading p {
+    margin-top: 9px;
+  }
+
+  .call-request-section {
+    margin-top: 12px;
+  }
+
+  .contact-right-text h2 {
+    font-size: 20px;
+    margin-bottom: 14px;
+  }
+
+  .conatct-help-section .contact-link {
+    margin-top: 13px;
+    margin-bottom: 20px;
+  }
+
+  .conatct-help-section .acc-title-inner h5.title-faq {
+    font-size: 14px;
+  }
+
+  /* pyment page */
+  .payment-method-section .payment-right-main h1 {
+    margin-top: 20px;
+  }
+
+  .payment-method-section .clear-button button {
+    margin-bottom: 10px;
+  }
+
+
+  /* about us page */
+  .choose-us-section .choose-us-main {
+    margin-bottom: 15px;
+  }
+
+  .number-section-main .about-us-center {
+    text-align: left;
+  }
+
+  .number-section-main .about-us-start {
+    text-align: end;
+  }
+
+  .number-section-main .about-us-end {
+    text-align: end;
+  }
+
+  /* my profile page */
+  .my-profile-information .service_profilediv {
+    max-width: 100%;
+    padding: 0px;
+  }
+
+  .my-profile-information .myprofile-right-side {
+    margin-top: 20px;
+  }
+
+  .my-profile-information .logout-btn {
+    margin-top: 0px;
+  }
+
+  .my-profile-information .save-btn-profile {
+    margin-top: 10px;
+  }
+
+  /* login modal */
+  .left_loginsection h1 {
+    font-size: 18px;
+  }
+
+  .login_welcomeflex button {
+    padding: 3px;
+  }
+
+  .login_flexforgots .checkbox_flex label {
+    font-size: 12px;
+  }
+
+  .login_flexforgots a {
+    font-size: 12px;
+  }
+
+  .left_loginsection h6 {
+    font-size: 12px;
+  }
+
+  /* login modal */
+  .shoplogin_rightimage {
+    display: none;
+  }
+
+  .login_model .modal-content {
+    width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 576px) {
+  .selectheader_right {
+    display: none;
+  }
+
+  .order_tastyfoodbanner h1 {
+    font-size: 24px;
+  }
+
+  .rightpart_mainhead .header_price {
+    display: none;
+  }
+
+  .main_header .webmain_icon {
+    height: 35px;
+  }
+
+  .rightpart_mainhead {
+    gap: 5px;
+  }
+
+  .rightpart_mainhead {
+    margin-top: 4px;
+  }
+
+  .footer_section .footer_toppart {
+    background-size: cover;
+  }
+
+  .most_popularscroller .swiper-button-prev {
+    margin-left: 25px;
+  }
+
+  .service_smallmaindiv {
+    max-width: 100%;
+  }
+
+  .grocery_product {
+    background: #147705;
+  }
+
+  .grocery_product .rightimg_grocery img {
+    display: initial;
+    width: 80%;
+  }
+
+  .grocery_product .rightimg_grocery {
+    text-align: right;
+  }
+
+  .our_blogsection {
+    height: 350px;
+  }
+
+  .our_blogsection .ourblog_bgimage {
+    height: 350px;
+    padding-left: 6%;
+  }
+
+  .our_blogsection p {
+    width: 90%;
+  }
+
+  /* ----- */
+  .banner-section-right .banner-right-inner h2 {
+    font-size: 20px;
+  }
+
+  .banner-section-right .banner-price span.price-rang {
+    font-size: 32px;
+  }
+
+  .shop-details-description .additional-information h4 {
+    font-size: 20px;
+  }
+
+  .shop-details-description .health-benefits h5 {
+    font-size: 20px;
+  }
+
+
+  /* contact us page */
+  .contact-inform-section .send-message {
+    text-align: left;
+    margin-top: 10px;
+  }
+
+  .call-request-section .call-request-text h3 {
+    max-width: 100%;
+    font-size: 20px;
+  }
+
+  .conatct-help-section .contact-help-heading h2 {
+    font-size: 20px;
+  }
+
+  .contact-inform-section .send-message button {
+    padding: 9px 10px;
+  }
+
+  .contact-info-text h2 {
+    font-size: 20px;
+  }
+
+
+  /* abou us page */
+  .welcome-to-about-us {
+    margin-top: 20px;
+  }
+
+  .welcome-to-about-us .welcome-text-list {
+    margin-top: 20px;
+  }
+
+  .our-mission-right h4 {
+    font-size: 20px;
+  }
+
+  .choose-us-section {
+    padding: 35px 0px;
+  }
+
+  .welcome-to-about-us .welcome-text h5 {
+    font-size: 16px;
+  }
+
+  .number-section-main .number-img img {
+    display: none;
+  }
+
+  .number-section-main .number-heading h3 {
+    font-size: 28px;
+  }
+
+  .number-section-main .number-heading p {
+    font-size: 14px;
+  }
+
+  .number-heading {
+    margin-bottom: 17px;
+  }
+
+  .transformative-heading h2 {
+    font-size: 22px;
+  }
+
+  .about-us-section .about-us-section-img p {
+    font-size: 14px;
+  }
+
+  .about-us-section .about-us-section-img h1 {
+    font-size: 32px;
+  }
+
+  .number-section-main {
+    margin-top: 10px;
+  }
+
+  .transformative-section .transformative-heading h2 {
+    font-size: 26px;
+  }
+
+
+  /* about us 2-2-24 */
+  .welcome-to-about-us {
+    margin-top: 52px;
+  }
+
+  .welcome-to-about-us .welcome-left-text {
+    padding: 0px;
+  }
+
+  .welcome-to-about-us .welcome-img {
+    max-width: 86%;
+  }
+
+  .transformative-section .transformative_slider button.owl-next {
+    top: 18%;
+  }
+
+  .transformative-section .transformative_slider button.owl-prev {
+    top: 18%;
+  }
+
+}
+
+@media screen and (max-width: 456px) {
+  .header_timeblocks {
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .header_ontop .cross_headbtn {
+    margin-top: 3px;
+  }
+
+  .header_topcontent h6 {
+    font-size: 12px;
+  }
+
+  .header_ontop {
+    padding: 10px 0px;
+  }
+
+  .main_header .webmain_icon {
+    height: 28px;
+  }
+
+  .header_navbar .left_navbar ul {
+    gap: 11px;
+  }
+
+  .cart_productveg1 .cart_vegdescription {
+    flex-direction: column;
+  }
+
+  .cart_productveg1 .cart_vegimg {
+    width: 99px;
+  }
+
+  .cart_productveg1 .cart_productname p {
+    width: 135%;
+    margin-bottom: 6px;
+  }
+
+  .cart_havecoupon .coupon_applyinput input {
+    width: 100%;
+  }
+
+  .blogdetail_topimage {
+    height: 200px;
+  }
+
+  .left_blogdetail .blogdeail_secondimg {
+    height: 200px;
+  }
+
+  .left_blogdetail h2 {
+    font-size: 16px;
+  }
+
+  /* /-- deal of the day ---- */
+  .deal_ofday .dealof_daycontent h1 {
+    font-size: 28px;
+  }
+
+  .deal_ofday {
+    flex-direction: column;
+    height: 450px;
+  }
+
+  .deal_ofday .do_flex.display_hiderightresp {
+    display: flex;
+    justify-content: end;
+  }
+
+  .deal_ofday .do_flex.display_hiderightresp img {
+    height: 158px;
+  }
+
+  /* about-us 2-2-24 */
+  .transformative-section .transformative_slider button.owl-prev {
+    top: 23%;
+  }
+
+  .transformative-section .transformative_slider button.owl-next {
+    top: 23%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .banner-section .maxi-main-img {
+    padding: 26px 13px;
+  }
+
+  .banner-section .mini-img-first {
+    padding: 5px 0px;
+  }
+
+  .most_popularproduct .mostpopular_mainheading h2 {
+    font-size: 18px;
+  }
+
+  .dry_fruitssection .swiper-button-prev {
+    margin-left: 25px;
+  }
+
+  .special_prodcard1 .special_prodcardtop1 p {
+    font-size: 12px;
+  }
+
+  /* new css add */
+  .most_popularproduct .mostpopular_mainheading h2 {
+    font-size: 18px;
+  }
+
+  .right_vegetablepart .top_headingveg h2 {
+    font-size: 20px;
+  }
+
+
+  /* index page */
+  .hero_section .hero_rightsmall {
+    display: block;
+  }
+
+  .hero_section .banner_aerotisetwo {
+    margin-left: 0px;
+    margin-top: 10px;
+  }
+
+  .hero_leftbig p {
+    font-size: 12px;
+  }
+
+  .hero_section .hero_leftbig h2 {
+    font-size: 18px;
+  }
+
+  /* my profile page */
+  .my-profile-information .information_heading h2 {
+    font-size: 20px;
+  }
+
+}
